@@ -3,3 +3,5 @@ Tytul: Pliczek
 Autor : Dzoana
 
 Abstrakt: Taki sobie pliczek
+
+Zmiana mastera !!
